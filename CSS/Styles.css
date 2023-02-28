@@ -1,0 +1,44 @@
+.contenedor{
+    margin: auto;
+    display: flex;
+    width: 1280px;
+    height: 890px;
+    background-color: aqua; 
+}
+
+#Titulo
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#verificar
+{
+    margin: auto;
+}
+.espacios
+{
+    margin: auto;
+}
+
+#wordlecanvas
+{   
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px;
+    background-color: aqua;
+}
+
+#input-container{
+    margin-top: 10px;
+    text-align: center;
+    font-size: large;
+}
+#word-input{
+    text-align: center;
+    font-size: large;
+}
